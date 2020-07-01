@@ -6,6 +6,10 @@ yarn-debug.log*
 yarn-error.log*
 firebase-debug.log*
 
+##Compiled JavaScript files 
+**/*.js
+**/*.js.map
+
 # Firebase cache
 .firebase/
 
